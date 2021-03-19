@@ -1,4 +1,4 @@
-# Hi there, I'm Fanghan, I am a full-stack web developer, I develope mobile friendly websites, full stack web applications and progressive web applications.
+# Hi there, I'm Fanghan, I am a full-stack web developer, I develope mobile friendly websites, full-stack web applications and progressive web applications.
 
 ## My Stats:
 ----------

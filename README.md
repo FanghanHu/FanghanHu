@@ -1,4 +1,4 @@
-# It's not much, but its honest work.
+# It's not much, but it's honest work.
 
 ## My Stats:
 [![Fanghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanghanHu&show_icons=true)](https://github.com/FanghanHu/)

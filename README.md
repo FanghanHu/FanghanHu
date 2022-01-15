@@ -1,4 +1,4 @@
-# Hi there, I'm Fanghan, I am a full-stack web developer, I develope mobile friendly websites, progressive web applications, and mobile apps.
+# It's not much, but its honest work.
 
 ## My Stats:
 [![Fanghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanghanHu&show_icons=true)](https://github.com/FanghanHu/)

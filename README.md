@@ -1,5 +1,3 @@
-# It's not much, but it's honest work.
-
 ## My Stats:
 [![Fanghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanghanHu&show_icons=true)](https://github.com/FanghanHu/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanghanHu&layout=compact)](https://github.com/FanghanHu/)
